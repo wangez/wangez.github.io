@@ -1,0 +1,8 @@
+{
+  "name": "wangez.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:wangez/wangez.github.io.git",
+  "author": "wangez <1059601437@qq.com>",
+  "license": "MIT"
+}
